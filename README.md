@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working @ Perseus Cybersecurity Services.<br>👯 I’m looking to collaborate on learning with others.<br>🌱 I’m currently learning ethical hacking and playing CTFs.
+🔭 I’m currently working @ Perseus Cybersecurity Services.
+<br>👯 I’m looking to collaborate on learning with others.
+<br>🌱 I’m currently learning ethical hacking and playing CTFs.
 
 
 ## 🌐 Socials:
