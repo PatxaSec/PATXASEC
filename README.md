@@ -55,4 +55,3 @@ NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo
 ---
 [![](https://visitcount.itsvg.in/api?id=Patxa-py&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
