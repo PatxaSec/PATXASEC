@@ -3,11 +3,6 @@
 <br>👯 I’m looking to collaborate on learning with others.
 <br>🌱 I’m currently learning ethical hacking and playing CTFs.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ander-g-obieta) 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Patxa_) 
-
 # 💻 Tech Stack:
 
 ## Mains:
