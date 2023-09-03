@@ -34,9 +34,11 @@ NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Patxa-py&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/><center/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Patxa-py&theme=midnight-purple&hide_border=false)<br/><center/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patxa-py&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<center/>
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=Patxa-py&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Patxa-py&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patxa-py&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
