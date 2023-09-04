@@ -68,15 +68,6 @@ ___
 </div>
 
 ___
-### ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-___
 
 ### 🔝 Top Contributed Repo
 
@@ -86,17 +77,8 @@ ___
 
 </div>
 
-___
-
-### 😂 Random Dev Meme
-
-<div align="center">
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Patxa-py&icon=0&color=11)](https://visitcount.itsvg.in)
 
 </div>
