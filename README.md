@@ -4,7 +4,7 @@
 🔭 I’m currently working @ Perseus Cybersecurity Services.
 <br>👯 I’m looking to collaborate on learning with others.
 <br>🌱 I’m currently learning ethical hacking and playing CTFs.
-
+___
 # 💻 Tech Stack
 
 ## Mains
@@ -40,13 +40,13 @@ ___
 ![](https://github-readme-stats.vercel.app/api?username=Patxa-py&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Patxa-py&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Patxa-py&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+___
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+___
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Patxa-py&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+___
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
