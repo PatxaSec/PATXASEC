@@ -4,14 +4,10 @@
 🔭  Self-taught cybersecurity and ethical hacking student working as a pentester.  
 <br>
 <br>
-<img src="https://64.media.tumblr.com/60b3030372fb5f077856a019f6b38ef0/tumblr_mm0o0xqNf41spwa2po1_400.gif" width="500">
-
 <br>
 
-<br>
- 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-PatxaSec-%230077B5.svg?logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/ander-g-obieta)
  [![HackerRank](https://img.shields.io/badge/HackerRank-PatxaSec-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/patxasec)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-PatxaSec-%230077B5.svg?logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/ander-g-obieta)
  [![hackthebox](https://img.shields.io/badge/hackthebox-PatxaSec-brightgreen?logo=hackthebox&logoColor=Green&labelColor=black)](https://app.hackthebox.com/profile/1467273)
 
  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd0eTk1ZDVxMnhpMGV6NmtsMHJmZ214N21xeDRrZW04aGI5Mnk1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400">
