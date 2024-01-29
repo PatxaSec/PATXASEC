@@ -1,15 +1,17 @@
 # 💫 About Me
 
-
 <div align="center">
 🔭 I’m currently working @ Perseus Cybersecurity Services.
 <br>👯 I’m looking to collaborate on learning with others.
-<br>🌱 I’m currently learning ethical hacking and playing CTFs.
+<br>🌱 I’m currently learning ethical hacking and playing CTFs. 
+ <br>
+ [![HackerRank](https://img.shields.io/badge/HackerRank-PatxaSec-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/patxasec)
+
 </div>
 
 ___
 
-# 💻 Tech Stack
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Tech Stack
 
 ## Mains
 
@@ -21,6 +23,8 @@ ___
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 
 </div>
 
