@@ -7,7 +7,6 @@
 <br>
 
  [![HackerRank](https://img.shields.io/badge/HackerRank-PatxaSec-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/patxasec)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-PatxaSec-%230077B5.svg?logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/ander-g-obieta)
  [![hackthebox](https://img.shields.io/badge/hackthebox-PatxaSec-brightgreen?logo=hackthebox&logoColor=Green&labelColor=black)](https://app.hackthebox.com/profile/1467273)
 
 <br>
