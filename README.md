@@ -11,8 +11,8 @@
 
 <br>
  
- ![Hackerone](https://img.shields.io/badge/HackerOne-PatxaSec-white?logo=HackerOne&logoColor=White&labelColor=black)
- ![YesWeHack](https://img.shields.io/badge/YesWeHack-PatxaSec-red?logo=YesWeHack&logoColor=red&labelColor=black)
+ [![Hackerone](https://img.shields.io/badge/HackerOne-PatxaSec-white?logo=HackerOne&logoColor=White&labelColor=black)](https://hackerone.com/patxasec)
+ [![YesWeHack](https://img.shields.io/badge/YesWeHack-PatxaSec-red?logo=YesWeHack&logoColor=red&labelColor=black)](https://yeswehack.com/hunters/PatxaSec)
 
 <br>
 <br>
