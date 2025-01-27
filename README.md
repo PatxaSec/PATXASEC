@@ -10,10 +10,6 @@
  [![hackthebox](https://img.shields.io/badge/hackthebox-PatxaSec-brightgreen?logo=hackthebox&logoColor=Green&labelColor=black)](https://app.hackthebox.com/profile/1467273)
 
 <br>
- 
- [![YesWeHack](https://img.shields.io/badge/YesWeHack-PatxaSec-red?logo=YesWeHack&logoColor=red&labelColor=black)](https://yeswehack.com/hunters/PatxaSec)
-
-<br>
 
 [![Atenea](https://img.shields.io/badge/Atenea-PatxaSec-red?logo=Atenea&logoColor=red&labelColor=black)](https://atenea.ccn-cert.cni.es/PatxaSec)
 
