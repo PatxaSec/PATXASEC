@@ -1,69 +1,65 @@
-# 💫 About Me     [![Github](https://img.shields.io/github/followers/PatxaSec?label=Follow%20Me&style=social)](https://github.com/PatxaSec)
+# Hi there, I'm PatxaSec!
+## 🛡️ Pentester | 🐙 Red Team Operator | 🎮 CTF Player
 
-<div align="center">
-🔭  Self-taught cybersecurity and ethical hacking student working as a pentester.  
-<br>
-<br>
-<br>
+💫 [![Github](https://img.shields.io/github/followers/PatxaSec?label=Follow%20Me&style=social)](https://github.com/PatxaSec)
+
+
+---
 
  [![HackerRank](https://img.shields.io/badge/HackerRank-PatxaSec-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/patxasec)
  [![hackthebox](https://img.shields.io/badge/hackthebox-PatxaSec-brightgreen?logo=hackthebox&logoColor=Green&labelColor=black)](https://app.hackthebox.com/profile/1467273)
 
-<br>
 
-[![Atenea](https://img.shields.io/badge/Atenea-PatxaSec-red?logo=Atenea&logoColor=red&labelColor=black)](https://atenea.ccn-cert.cni.es/PatxaSec)
+---
 
-<br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd0eTk1ZDVxMnhpMGV6NmtsMHJmZ214N21xeDRrZW04aGI5Mnk1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400">
-</div>
 
 ___
 
-# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Technologies & Tools
 
-## Mains
+- **Languages:**  
+  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+  ![Powershell](https://img.shields.io/badge/-Powershell-000000?logo=powershell&logoColor=white) 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white) 
+  ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+  ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+  ![Java](https://img.shields.io/badge/-java-1572B6?logo=java&logoColor=white)  
 
+- **Pentesting Tools:**  
+  ![BurpSuite](https://img.shields.io/badge/-BurpSuite-ff4a1c?logo=burp-suite&logoColor=white) 
+  ![Metasploit](https://img.shields.io/badge/-Metasploit-3c9bcf?logo=metasploit&logoColor=white) 
+  ![NMap](https://img.shields.io/badge/-NMap-005f87?logo=nmap&logoColor=white) 
+  ![Nuclei](https://img.shields.io/badge/-Nuclei-1e90ff?logo=nuclei&logoColor=white) 
+  ![Qualys](https://img.shields.io/badge/-Qualys-00aaff?logo=qualys&logoColor=white) 
+  ![Nikto](https://img.shields.io/badge/-Nikto-e02c2d?logo=nikto&logoColor=white)
+  ![John](https://img.shields.io/badge/-John%20The%20Ripper-000000?logo=johntheripper&logoColor=white)
+  ![Hydra](https://img.shields.io/badge/-Hydra-ff6347?logo=hydra&logoColor=white)
+  ![Bloodhound](https://img.shields.io/badge/-Bloodhound-0055ff?logo=bloodhound&logoColor=white) 
+  ![NetExec](https://img.shields.io/badge/-NetExec-800000?logo=netexec&logoColor=white)
+  ![smbclient](https://img.shields.io/badge/-smbclient-1d6dc7?logo=samba&logoColor=white) 
+  ![Evil-WinRM](https://img.shields.io/badge/-Evil--WinRM-ff4500?logo=windows&logoColor=white)
 
-<div align="center">
+- **Platforms:**  
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kalilinux&logoColor=white)  
+  ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white) 
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-ff4500?logo=ubuntu&logoColor=white) 
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![ShellScript](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+---
 
-</div>
+## 🎯 Certifications
 
-## need some cheatsheet.
+- **CCNAv7: Bridging**
+- **Qualys: VMDR, CSAM & Management**
+- **Hackerrank (Python, Java, SQL(Advance))**
+- **IBM Python Data Science Professional Certificate**
+- **Fortinet: NSE1, NSE2 & NSE3**
 
-<div align="center">
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flate&logo=mariadb&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![git](https://img.shields.io/badge/git-%23ED8B00.svg?style=flat&logo=git&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
- 
-
-</div>
-
-## Learning
-
-<div align="center">
- 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![C](https://img.shields.io/badge/C-%23ED8B00.svg?style=flat&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%23ED8B00.svg?style=flat&logo=C++&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%23ED8B00.svg?style=flat&logo=Go&logoColor=white)
-
-
-</div>
-
-___
 # 📊 GitHub Stats
 
 
