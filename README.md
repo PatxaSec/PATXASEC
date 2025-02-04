@@ -7,6 +7,9 @@
 ---
 
  [![HackerRank](https://img.shields.io/badge/HackerRank-PatxaSec-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/patxasec)
+
+![https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://www.hackthebox.com/badge/image/1467273)
+ 
  [![hackthebox](https://img.shields.io/badge/hackthebox-PatxaSec-brightgreen?logo=hackthebox&logoColor=Green&labelColor=black)](https://app.hackthebox.com/profile/1467273)
 
 
