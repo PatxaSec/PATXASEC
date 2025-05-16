@@ -7,10 +7,6 @@
  [![HackerRank](https://img.shields.io/badge/HackerRank-PatxaSec-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/patxasec) 
  [![hackthebox](https://img.shields.io/badge/hackthebox-PatxaSec-brightgreen?logo=hackthebox&logoColor=Green&labelColor=black)](https://app.hackthebox.com/profile/1467273)
 
----
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamd0eTk1ZDVxMnhpMGV6NmtsMHJmZ214N21xeDRrZW04aGI5Mnk1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400">
-
 ___
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Technologies & Tools
