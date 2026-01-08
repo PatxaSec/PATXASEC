@@ -55,6 +55,8 @@ ___
 
 ## 🎯 Certifications
 
+- **OffSec: OSWP**
+- **OffSec: OSCP** (on prep)
 - **HTB-CAPE (Certified Active Directory Pentesting Expert)** (on prep)
 - **CCNAv7: Bridging**
 - **Qualys: VMDR, CSAM & Management**
